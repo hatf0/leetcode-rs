@@ -9,23 +9,28 @@ This repository contains all of my Rust solutions to Leetcode problems.
 
 ## Problems Solved
 ### Easy
-- [x] 9. Palindrome Number (Easy)
-- [x] 21. Merge Two Sorted Lists (Easy)
-- [x] 125. Valid Palindrome (Easy)
+- [x] 1. Two Sum
+- [x] 9. Palindrome Number
+- [x] 14. Longest Common Prefix
+- [x] 21. Merge Two Sorted Lists
+- [x] 125. Valid Palindrome
+- [x] 1207. Unique Number of Occurrances
+- [x] FB Mock Interview: Shuffle String
+- [x] FB Mock Interview: Minimum Time Visiting All Points
 
 ### Medium
-- [x] 2. Add Two Numbers (Medium)
-- [x] 7. Reverse Integer (Medium)
-- [x] 11. Container with Most Water (Medium)
-- [x] 12. Integer to Roman (Medium)
+- [x] 2. Add Two Numbers
+- [x] 5. Longest Palindromic Substring
+- [x] 7. Reverse Integer
+- [x] 11. Container with Most Water
+- [x] 12. Integer to Roman
 
 ### Hard
-- [x] 4. Median of Two Sorted Arrays (Hard)
+- [x] 4. Median of Two Sorted Arrays
 
 ## Problems In-Progress
 ### Easy
 ### Medium
-- [ ] 5. Longest Palindromic Substring: brute-force solution only, need to optimize (Medium)
-- [ ] 15. 3Sum: brute-force solution only, need to optimize (Medium)
+- [ ] 15. 3Sum: brute-force solution only, need to optimize
 ### Hard
-- [ ] 10. Regular Expression Matching (Hard)
+- [ ] 10. Regular Expression Matching
