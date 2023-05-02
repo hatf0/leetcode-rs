@@ -13,6 +13,7 @@ This repository contains all of my Rust solutions to Leetcode problems.
 - [x] 9. Palindrome Number
 - [x] 14. Longest Common Prefix
 - [x] 21. Merge Two Sorted Lists
+- [x] 26. Remove Duplicates from Sorted Array
 - [x] 125. Valid Palindrome
 - [x] 1207. Unique Number of Occurrances
 - [x] FB Mock Interview: Shuffle String
@@ -32,5 +33,6 @@ This repository contains all of my Rust solutions to Leetcode problems.
 ### Easy
 ### Medium
 - [ ] 15. 3Sum: brute-force solution only, need to optimize
+- [ ] 17. Letter Combinations of a Phone Number
 ### Hard
 - [ ] 10. Regular Expression Matching
