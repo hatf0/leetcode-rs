@@ -13,6 +13,8 @@ mod _0021_merge_two_sorted;
 mod _0026_remove_duplicates;
 mod _0012_integer_to_roman;
 mod _0015_three_sum;
+mod _0050_pow;
+mod _0094_in_order_traversal;
 mod _0125_valid_palindrome;
 mod _1207_unique_occurrances;
 
