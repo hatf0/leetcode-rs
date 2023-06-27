@@ -15,7 +15,13 @@ mod _0012_integer_to_roman;
 mod _0015_three_sum;
 mod _0050_pow;
 mod _0094_in_order_traversal;
+mod _0121_best_time_to_sell;
 mod _0125_valid_palindrome;
+mod _0226_invert_binary_tree;
+mod _0235_lowest_common_ancestor;
+mod _0242_valid_anagram;
+mod _0704_binary_search;
+mod _0733_flood_fill;
 mod _1207_unique_occurrances;
 
 /* Interview questions */

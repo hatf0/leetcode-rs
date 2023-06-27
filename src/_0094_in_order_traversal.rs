@@ -50,7 +50,6 @@ impl Solution {
         curr = curr.clone().unwrap().as_ref().borrow().right.clone();
       }
 
-
       result
     }
 }
